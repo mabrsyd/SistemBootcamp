@@ -24,6 +24,7 @@ console.log('userName:', userName)
 console.log('age:', age)
 console.log('objAddress:', objAddress)
 console.log('baris baru untracked git')
+console.log('menambah baris baru untracked git')
 </script>
 
 <template>
