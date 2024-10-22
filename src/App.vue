@@ -26,6 +26,7 @@ console.log('objAddress:', objAddress)
 console.log('baris baru untracked git')
 console.log('menambah baris baru untracked git')
 console.log('menambahkan home page feature')
+console.log('menambahkan home page feature kedua')
 </script>
 
 <template>
