@@ -66,14 +66,3 @@
     </main>
   </template>
   
-  <script lang="ts">
-  import { defineComponent } from 'vue'
-  import BlogPostSection from './blogpostsec.vue'
-  
-  export default defineComponent({
-    name: 'BlogPosts',
-    components: {
-      BlogPostSection
-    }
-  })
-  </script>
