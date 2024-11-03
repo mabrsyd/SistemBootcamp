@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import MainLayout from '@/layouts/MainLayout.vue'
 import FeaturedPost from '@/components/Blog/FeaturedPost.vue'
-import AllPost from '@/components/Blog/BlogPost.vue'
-import CategorySection from '@/components/Blog/CategorySection.vue'
+import AllPost from '@/components/Blog/blogpost.vue'
+import CategorySection from '@/components/Blog/categorysection.vue'
 import JoinOutTeam from '@/components/Home/JoinOutTeam.vue'
 
 </script>

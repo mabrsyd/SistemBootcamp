@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import MainLayout from '@/layouts/MainLayout.vue'
-import HeaderBlog from '@/components/BlogPost/HeaderBlog.vue'
-import BlogContent from '@/components/BlogPost/BlogContent.vue'
-import BlogPostSection from '@/components/BlogPost/BlogPostSection.vue'
+import HeaderBlog from '@/components/BlogPost/headerblog.vue'
+import BlogContent from '@/components/BlogPost/blogcontent.vue'
+import BlogPostSection from '@/components/BlogPost/blogpostsection.vue'
 
 </script>
 

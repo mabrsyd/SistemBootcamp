@@ -21,9 +21,3 @@
     </div>
   </template>
   
-  <script>
-  export default {
-    name: "MissionVision",
-  };
-  </script>
-  
