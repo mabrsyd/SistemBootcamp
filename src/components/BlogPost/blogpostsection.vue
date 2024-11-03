@@ -30,7 +30,7 @@
   
           <article class="flex flex-col w-[33%] max-md:ml-0 max-md:w-full mx-2"> <!-- Menambahkan margin horizontal -->
             <div class="flex flex-col grow mt-20 text-gray-800 max-md:mt-10">
-              <img loading="lazy" src="@/assets/images/blog/photo-of-people-doing-handshakes-3183197.png" />
+              <img src="@/assets/images/blog/photo-of-people-doing-handshakes-3183197.png" alt="Handshake" />
               <time datetime="2021-08-23" data-layername="byJohnDoeLAug232021"
                 class="self-start mt-8 text-sm font-medium leading-none text-amber-300">
                 By <span class="text-amber-300">John Doe</span> l Aug 23, 2021
