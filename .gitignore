@@ -44,7 +44,7 @@ coverage
 *.gif
 
 # Exclude blog images from being ignored
-!src/assets/images/blog/*.png
+!src/assets/images/Blog/*.png
 !src/assets/images/blog/*.jpg
 !src/assets/images/blog/*.jpeg
 !src/assets/images/blog/*.gif
