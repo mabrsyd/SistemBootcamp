@@ -7,18 +7,18 @@
     <img src="@/assets/images/logo/logo-join-sistem.png" alt="Join Sistem Logo">
     <ul class="flex gap-4">
       <li>
-        <a href="#" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">Home</a>
+        <RouterLink to="/" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">Home</RouterLink>
       </li>
       <li>
-        <a href="#" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">Blog</a>
+        <RouterLink to="/blog" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">Blog</RouterLink>
       </li>
       <li>
-        <a href="#" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">About Us</a>
+        <RouterLink to="/about" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">About Us</RouterLink>
       </li>
       <li>
-        <a href="#" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">Contact Us</a>
+        <RouterLink to="/contact-us" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">contact Us</RouterLink>
       </li>
     </ul>
-    <a href="#" class="bg-x-blue px-4 py-2 rounded-full text-white hover:bg-x-yellow transition duration-150 ease-in-out">Contact Us</a>
+    <RouterLink to="/contact-us" class="bg-x-blue px-4 py-2 rounded-full text-white hover:bg-x-yellow transition duration-150 ease-in-out">Contact Us</RouterLink>
   </nav>
 </template>

@@ -25,6 +25,7 @@ export default {
         'x-lightgrey': '#F4F4F4',
         'x-lavender': '#F4F0F8',
         'x-lightyellow': '#FBF6EA',
+        'x-light': '#FFFFFF',
       },
     },
   },
