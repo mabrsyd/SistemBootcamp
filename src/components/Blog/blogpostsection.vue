@@ -16,7 +16,7 @@
   
   
   export default defineComponent({
-    name: 'BlogPostSection',
+    name: 'blogpostsection',
     props: {
       category: {
         type: String,
