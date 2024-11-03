@@ -10,7 +10,7 @@
           <article class="flex flex-col w-[33%] max-md:ml-0 max-md:w-full mx-2"> <!-- Menambahkan margin horizontal -->
             <div class="flex flex-col grow items-start font-bold text-gray-800 max-md:mt-10">
               <div class="flex flex-col grow mt-20 text-gray-800 max-md:mt-10">
-                <img src="@/assets/images/blog/photo-of-people-doing-handshakes-3183197.png" alt="Handshake" />
+                <img loading="lazy" src="@/assets/images/Blog/two-women-in-front-of-dry-erase-board-1181533.png" />
                 <time datetime="2021-08-23" data-layername="byJohnDoeLAug232021"
                   class="mt-8 text-sm font-medium leading-none text-amber-300">
                   By <span class="text-amber-300">John Doe</span> l Aug 23, 2021
@@ -30,7 +30,7 @@
   
           <article class="flex flex-col w-[33%] max-md:ml-0 max-md:w-full mx-2"> <!-- Menambahkan margin horizontal -->
             <div class="flex flex-col grow mt-20 text-gray-800 max-md:mt-10">
-              <img src="@/assets/images/blog/photo-of-people-doing-handshakes-3183197.png" alt="Handshake" />
+              <img loading="lazy" src="@/assets/images/blog/photo-of-people-doing-handshakes-3183197.png" />
               <time datetime="2021-08-23" data-layername="byJohnDoeLAug232021"
                 class="self-start mt-8 text-sm font-medium leading-none text-amber-300">
                 By <span class="text-amber-300">John Doe</span> l Aug 23, 2021
