@@ -68,7 +68,7 @@
   
   <script lang="ts">
   import { defineComponent } from 'vue'
-  import BlogPostSection from './blogpostsection.vue'
+  import BlogPostSection from './blogpostsec.vue'
   
   export default defineComponent({
     name: 'BlogPosts',
