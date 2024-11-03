@@ -7,13 +7,19 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Node modules
 node_modules
+
+# MacOS file
 .DS_Store
+
+# Build directories
 dist
 dist-ssr
 coverage
 *.local
 
+# Cypress videos and screenshots
 /cypress/videos/
 /cypress/screenshots/
 
@@ -27,5 +33,18 @@ coverage
 *.sln
 *.sw?
 
+# TypeScript build info
 *.tsbuildinfo
 .vercel
+
+# Ignore all images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Exclude blog images from being ignored
+!src/assets/images/blog/*.png
+!src/assets/images/blog/*.jpg
+!src/assets/images/blog/*.jpeg
+!src/assets/images/blog/*.gif
