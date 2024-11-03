@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import MainLayout from '@/layouts/MainLayout.vue'
-import FeaturedPost from '@/components/Blog/FeaturedPost.vue'
+import feature from '@/components/Blog/feature.vue'
 import AllPost from '@/components/Blog/blogpost.vue'
 import CategorySection from '@/components/Blog/categorysection.vue'
 import JoinOutTeam from '@/components/Home/JoinOutTeam.vue'
@@ -9,9 +9,9 @@ import JoinOutTeam from '@/components/Home/JoinOutTeam.vue'
 
 <template>
   <MainLayout>
-    <FeaturedPost>
-    </FeaturedPost>
     <AllPost category="News" title="Some title" description="Some description" />
+    <feature>
+    </feature>
     <CategorySection>
     </CategorySection>
     <JoinOutTeam>
